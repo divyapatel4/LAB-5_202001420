@@ -21,8 +21,10 @@ Yellow underlines are for possible warnings like unused variables, unused import
 
 <img width="1079" alt="image" src="https://user-images.githubusercontent.com/82770981/227492846-c9ab2135-9157-45b5-bf96-50a4b3c7a6a2.png">
 
-Not Following Naming Conventions:
+**Not Following Naming Conventions:**
 <img width="1084" alt="image" src="https://user-images.githubusercontent.com/82770981/227492915-edb9413e-42c1-484a-b26d-1b8ad778f367.png">
+
+Not following naming conventions can lead to confusion and bugs in the code and can also lead to poor readability of the code.
 
 **Const name not following UPPER\_CASE naming style :**
 <img width="1082" alt="image" src="https://user-images.githubusercontent.com/82770981/227492971-19b2c63f-a8eb-478a-bdb2-611d21d18664.png">
@@ -32,6 +34,7 @@ Not Following Naming Conventions:
 
 <img width="839" alt="image" src="https://user-images.githubusercontent.com/82770981/227493021-24371e5f-d29e-4ef1-856c-12fb5be36c9a.png">
 
+Unused imports will lead to unnecessary memory usage and can also lead to confusion and bugs in the code.
 
 **Missing a newline after final line of code:**
 
@@ -42,6 +45,7 @@ Not Following Naming Conventions:
 
 <img width="1094" alt="image" src="https://user-images.githubusercontent.com/82770981/227493225-23ba3c08-f73d-4d6e-9d6e-f34a2df4ee91.png">
 
+Poorly formatted logical conditions can be difficult to read and understand by other developers and can lead to bugs in the code.
 
 **Improper String Format:**
 
@@ -87,3 +91,5 @@ Not Following Naming Conventions:
 
 
 **We can see that a large amount of code is redundant and duplicate** 
+
+Duplicate code makes program lengthy and bulky and also difficult to maintain and debug.
