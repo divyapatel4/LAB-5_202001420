@@ -1,4 +1,5 @@
-**IT314** – Software Engineering 				          **Date** – March 24, 2023 
+**IT314** – Software Engineering 				          
+**Date** – March 24, 2023 
 
 **Lab Report - 5**
 
@@ -6,7 +7,7 @@
 
 **Student ID** – **202001420**
 
-**Analysis is done on GitHub repository-[https://github.com/Aadityaa2606/Library_manager**](https://github.com/Aadityaa2606/Library_manager)**
+**Analysis is done on GitHub repository-[https://github.com/Aadityaa2606/Library_manager](https://github.com/Aadityaa2606/Library_manager)**
 
 **Tools used – Pylint Library and Pylint VS Code Extension** 
 
@@ -18,80 +19,71 @@ Red underlines are for for possible errors
 
 Yellow underlines are for possible warnings like unused variables, unused imports, exceptions not handled etc.
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.001.png)
-
+<img width="1079" alt="image" src="https://user-images.githubusercontent.com/82770981/227492846-c9ab2135-9157-45b5-bf96-50a4b3c7a6a2.png">
 
 Not Following Naming Conventions:
-
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.002.png)
+<img width="1084" alt="image" src="https://user-images.githubusercontent.com/82770981/227492915-edb9413e-42c1-484a-b26d-1b8ad778f367.png">
 
 **Const name not following UPPER\_CASE naming style :**
+<img width="1082" alt="image" src="https://user-images.githubusercontent.com/82770981/227492971-19b2c63f-a8eb-478a-bdb2-611d21d18664.png">
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.003.png)
 
 **Unused Imports:**
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.004.png)
+<img width="839" alt="image" src="https://user-images.githubusercontent.com/82770981/227493021-24371e5f-d29e-4ef1-856c-12fb5be36c9a.png">
+
 
 **Missing a newline after final line of code:**
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.005.png)
+<img width="1089" alt="image" src="https://user-images.githubusercontent.com/82770981/227493169-b70f144f-6916-4a98-8f99-562568aa5311.png">
+
 
 **Poorly formatted Logical Condition** 
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.006.png)
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/82770981/227493225-23ba3c08-f73d-4d6e-9d6e-f34a2df4ee91.png">
+
 
 **Improper String Format:**
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.007.png)
-
-
+<img width="1088" alt="image" src="https://user-images.githubusercontent.com/82770981/227493273-32664258-19cf-49cf-9384-34b49bc7e409.png">
 
 
 **Analysing main.py:**
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.008.png)
+<img width="1089" alt="image" src="https://user-images.githubusercontent.com/82770981/227493328-48bc854c-5c2f-42ca-b26f-ab7d48488aff.png">
+
 
 **Analysing AddBook.py:**
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.009.png) ![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.010.png)
+<img width="847" alt="image" src="https://user-images.githubusercontent.com/82770981/227493461-417c8aa9-4a7b-4045-8e78-406e7f6f4841.png">
+
 
 **Analysing IssueBook.py:**
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.011.png)
+<img width="874" alt="image" src="https://user-images.githubusercontent.com/82770981/227493582-fa3a7ea1-2e26-4ada-974f-96417684e8ee.png">
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.012.png)
-
-
-
-
-
-
+<img width="883" alt="image" src="https://user-images.githubusercontent.com/82770981/227493636-8b54fa59-4b4e-4b51-97df-9d7f38ffca21.png">
 
 
 **Analysing DeleteBook.py**
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.013.png)
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/82770981/227493743-6632e80b-59d5-4dc7-a7fb-bdedf842b24e.png">
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.014.png)
-
+<img width="962" alt="image" src="https://user-images.githubusercontent.com/82770981/227493797-337a3b9b-9a56-4328-b644-28725cb7462b.png">
 
 
 **Analysing  ViewBooks.py**
 
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/82770981/227493862-9e764a8a-08a8-4e75-b0a6-4a2419118cae.png">
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.015.png)
-
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.016.png)
+<img width="964" alt="image" src="https://user-images.githubusercontent.com/82770981/227493963-e16a173a-c407-4e6f-8204-2a2ce18aeb6a.png">
 
 
 **Analysing Whole Repository for identifying Redundant and Duplicate Code:**
 
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.017.png)
+<img width="853" alt="image" src="https://user-images.githubusercontent.com/82770981/227494115-ea6b394f-7ae8-4f8f-928c-e8fc00c50fe6.png">
 
+<img width="875" alt="image" src="https://user-images.githubusercontent.com/82770981/227494033-a072a970-bdce-4053-b6ef-6784c4b85d48.png">
 
-
-
-![](Aspose.Words.8bef0f03-9409-4632-978d-597a07a1bf78.018.png)
 
 **We can see that a large amount of code is redundant and duplicate** 
